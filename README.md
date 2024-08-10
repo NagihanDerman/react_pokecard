@@ -4,4 +4,4 @@ This project is a simple Pokémon Card application developed using React. It all
 
 ## GIF
 
-<img src=""/>
+<img src="./public/pokecard.gif"/>
